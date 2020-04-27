@@ -129,7 +129,7 @@
       }
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCvUNCogUPACnXa0ehqXzVrYYCei9zBn-U &callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=nhgvjh &callback=initMap">
     </script>
 
     <!--=========== END COURSE BANNER SECTION ================-->
